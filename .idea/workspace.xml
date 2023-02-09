@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Projet Bataille Navale:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4f6de56-b565-4956-a4d4-d87981aaafd8" name="Changes" comment="correct errors" />
+    <list id="391242d2-bbe3-4052-b3d8-2bdf7c8e2ae9" name="Changes by theworm" comment="Changes by theworm" />
+    <list id="dcbca908-8e29-4a22-972a-f89c749c1a03" name="Changes by yanni" comment="Changes by yanni" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FzNHECB78TysIFGNjWrwJu0vx7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f6de56-b565-4956-a4d4-d87981aaafd8" name="Changes" comment="" />
+      <created>1665490865487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665490865487</updated>
+      <workItem from="1669568973405" duration="2607000" />
+      <workItem from="1670579389159" duration="113000" />
+      <workItem from="1670579506502" duration="3882000" />
+      <workItem from="1670699586967" duration="456000" />
+      <workItem from="1670700048899" duration="1299000" />
+      <workItem from="1670754990830" duration="16363000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes by bavan">
+      <created>1670793756043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670793756043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes by yanni">
+      <created>1670793764204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670793764204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add CPU and Cheat">
+      <created>1670793789727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670793789727</updated>
+    </task>
+    <task id="LOCAL-00004" summary="corrected bug with CheckImpact">
+      <created>1670794140861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670794140861</updated>
+    </task>
+    <task id="LOCAL-00005" summary="corrected bug with CheckImpact">
+      <created>1670794169368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670794169368</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add nuke and try catch">
+      <created>1670796474740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670796474740</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changes by bavan">
+      <created>1670796482306</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670796482306</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changes by theworm">
+      <created>1670796489877</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670796489877</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Correct try-catch">
+      <created>1670796981669</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670796981669</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changes by theworm">
+      <created>1670796989163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670796989163</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Modified Impact on playergrid">
+      <created>1670797579931</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670797579931</updated>
+    </task>
+    <task id="LOCAL-00012" summary="corrected nuke">
+      <created>1670797935208</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670797935208</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correct errors">
+      <created>1670798720628</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670798720628</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Changes by theworm">
+      <created>1670798728429</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670798728429</updated>
+    </task>
+    <task id="LOCAL-00015" summary="correct errors">
+      <created>1670799203034</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670799203034</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Changes by theworm">
+      <created>1670799211137</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670799211137</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes by yanni" />
+    <MESSAGE value="Tools to build a functioning CPU" />
+    <MESSAGE value="Add CPU and Cheat" />
+    <MESSAGE value="corrected bug with CheckImpact" />
+    <MESSAGE value="Add nuke and try catch" />
+    <MESSAGE value="Changes by bavan" />
+    <MESSAGE value="Correct try-catch" />
+    <MESSAGE value="Modified Impact on playergrid" />
+    <MESSAGE value="corrected nuke" />
+    <MESSAGE value="correct errors" />
+    <MESSAGE value="Changes by theworm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes by theworm" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
